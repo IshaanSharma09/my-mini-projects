@@ -22,7 +22,7 @@ marvel = {"scarlet witch" : 1,
 pick = random.choice(list(marvel.keys()))
 print("Guess the Marvel character based on power (1 = strongest, 20 = weakest)")
 print("You have 10 guesses. Start guessing!")
-answer = input(": ")
+answer = input(": ").lower()
 guess = 1
 while True:
     if guess > 10:

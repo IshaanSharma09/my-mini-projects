@@ -19,7 +19,7 @@ marvel = {
     "gamora": 16,
     "drax": 17,
     "war machine": 18,
-    "rocket raccoon": 19,
+    "rocket": 19,
     "groot": 20,
 }
 

@@ -26,7 +26,6 @@ marvel = {
 pick = random.choice(list(marvel.keys()))
 
 print("🎮 Guess the Marvel character based on power!")
-print("🧠 1 = strongest, 20 = weakest")
 print("🕹️ You have 10 guesses. Start guessing!")
 
 guess = 1

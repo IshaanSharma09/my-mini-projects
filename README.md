@@ -40,6 +40,28 @@ Rolls multiple dice and prints each roll using ASCII art.
 ---
 
 
+# 🏦 NO Bank - Python Mini Project
+
+A simple terminal-based banking system built in Python. This project simulates basic banking functionalities like creating an account, logging in, checking balance, depositing, withdrawing, and transferring money.
+
+## 🔧 Features
+
+- 🆔 Account Creation
+- 🔐 Secure Login using `getpass`
+- 💰 Balance Check
+- 🪙 Deposit Money
+- 💵 Withdraw Money
+- 📲 Transfer Money
+- 🎉 Clean exit and user-friendly prompts
+
+### 🚀 Sample Output
+<img width="619" height="580" alt="image" src="https://github.com/user-attachments/assets/005f7544-1040-4704-98ae-d6f52553c906" />
+
+
+
+---
+
+
 ## 🙋‍♂️ Suggestions?
 
 I'm a beginner in Python and learning every day — I'd love your feedback, suggestions, or project ideas!

@@ -1,4 +1,4 @@
-<img width="449" height="512" alt="image" src="https://github.com/user-attachments/assets/26206e25-f2e4-4583-b7d7-576bd769bb09" /># My Mini Projects
+# My Mini Projects
 
 This repository contains small Python projects that I build as I learn programming and explore new concepts.  
 Each project is designed to be simple, fun, and educational.

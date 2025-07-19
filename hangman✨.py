@@ -51,7 +51,7 @@ def display_word():
             print('_', end=' ')
     print()
 guessed_letters.add(word[3])
-if len(word)>=6:
+if len(word)>=7:
     guessed_letters.add(word[6])
 print("Welcome to Hangman! Here's your word:")
 display_word()

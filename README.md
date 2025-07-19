@@ -45,11 +45,11 @@ Rolls multiple dice and prints each roll using ASCII art.
 
 
 
-# 🏦 NO Bank - Python Mini Project
+## 🏦 NO Bank - Python Mini Project
 
 A simple terminal-based banking system built in Python. This project simulates basic banking functionalities like creating an account, logging in, checking balance, depositing, withdrawing, and transferring money.
 
-## 🔧 Features
+### 🔧 Features
 
 - 🆔 Account Creation
 - 🔐 Secure Login using `getpass`
@@ -68,11 +68,11 @@ A simple terminal-based banking system built in Python. This project simulates b
 
 
 
-# 🎰 Python Slot Machine Game
+## 🎰 Python Slot Machine Game
 
 A fun command-line slot machine game built with Python. Bet your balance and spin the reels to win symbols like 🍒, 🍉, 🍋, 🔔, and ⭐.
 
-## 🔥 Features
+### 🔥 Features
 
 - 🎲 Random symbol spins using Python’s `random` module  
 - 💰 Bet and balance system  
@@ -80,7 +80,7 @@ A fun command-line slot machine game built with Python. Bet your balance and spi
 - ♻️ Loop until balance is 0 or user quits  
 - 🚫 Input validation for a smooth experience  
 
-## 🧠 Game Logic
+### 🧠 Game Logic
 
 | Symbol | Match 3 | Payout |
 |--------|---------|--------|
@@ -94,6 +94,28 @@ If all 3 symbols match, you win according to the multiplier.
 
 ### 🚀 Sample Output
 <img width="449" height="512" alt="image" src="https://github.com/user-attachments/assets/eeeed59f-c3a4-4334-a199-5bb47325b752" />
+
+
+
+---
+
+
+
+## 🕹️ Hangman Game (Animal Edition)
+
+A fun and simple **command-line Hangman game** in Python. The twist? You’re guessing from over 150+ **animal names**, and the 4th and 7th letters are revealed to help you win!
+
+
+### 🎯 Features
+
+- 🎲 Random animal name each round
+- 🧠 4th and 7th letters revealed at the start
+- 😵‍💫 ASCII art-based Hangman visual
+- 🔁 Input validation + prevents duplicate guesses
+- 🎉 Win or lose with 6 wrong guesses
+
+### 🚀 Sample Output
+<img width="390" height="677" alt="image" src="https://github.com/user-attachments/assets/1fbc6cc4-f036-4a8f-81bf-24bf40ee1b78" />
 
 
 

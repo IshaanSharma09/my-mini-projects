@@ -140,7 +140,7 @@ This program lets you set an alarm for a specific time, and plays an alert sound
 
 ```bash
 pip install pygame
-
+```
 ### 🚀 Sample Output
 <img width="799" height="555" alt="image" src="https://github.com/user-attachments/assets/9075ebc8-b2f9-48f8-be32-c7b50bd322f5" />
 

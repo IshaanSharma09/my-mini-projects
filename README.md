@@ -123,6 +123,35 @@ A fun and simple **command-line Hangman game** in Python. The twist? You’re gu
 
 
 
+## ⏰ Alarm Clock ⏰  
+A simple alarm clock built with **Python** and **Pygame**.
+
+This program lets you set an alarm for a specific time, and plays an alert sound when the time matches.  
+
+---
+
+### 📦 Features
+- ⏲️ Set alarm for a specific `HH:MM:SS` time
+- 🔊 Plays a sound when the time is up
+- 🎮 Uses Pygame for audio playback
+- 💤 Option to snooze the alarm
+
+---
+
+```bash
+pip install pygame
+
+### 🚀 Sample Output
+<img width="799" height="555" alt="image" src="https://github.com/user-attachments/assets/9075ebc8-b2f9-48f8-be32-c7b50bd322f5" />
+
+
+
+
+---
+
+
+
+
 ## 🙋‍♂️ Suggestions?
 
 I'm a beginner in Python and learning every day — I'd love your feedback, suggestions, or project ideas!
